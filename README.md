@@ -24,6 +24,9 @@ This application was designed as a Windows desktop application using Visual Stud
 ## Changelog
 
 ### Version 0.01 - 09/19/2022
+
+Video presentation of early features in this build: [YouTube: NICManager - Query Tool](https://youtu.be/TfylPKEYULI)
+
 - Complete Build #2. 0 errors.
 - Improved status feedback system to user for input validation.
 - Query tool input validation for valid input.
