@@ -10,12 +10,15 @@ This application was designed as a Windows desktop application using Visual Stud
 #### Target Version Information
 
 Visual Studio Community 2022
+
 C# .NET Framework 4.7.2
+
 MySQL 8.0.30
 
 #### Server Deployment Testing Environment
 
 Database: 10.4.24-MariaDB - mariadb.org binary distribution
+
 Charset: UTF-8 Unicode (utf8mb4)
 
 ## Changelog
