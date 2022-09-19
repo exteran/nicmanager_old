@@ -1,5 +1,7 @@
 # NICMananger
 
+![NICManager](https://www.github.com/exteran/nicmanager/img/nicmanager.jpg)
+
 ## Introduction
 This software is designed to digitize law enforcement records on local systems and servers for ease of access by personnel needing access to NCIC NIC file entries for records look-up, file maintenance, and hit confirmation request and response purposes. Many agencies still use hard copies (paper filing) for its NIC entry files, and personnel must search--by hand--the archive in order to find the relevant records. Digitizing these records can speed up the process of locating valid files quickly and easily.
 
