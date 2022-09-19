@@ -6,6 +6,7 @@
 ## Changelog
 
 ### Version 0.01 - 09/19/2022
+- Improved status feedback system to user for input validation.
 - Query tool input validation for valid input.
 - Complete first build. 0 errors.
 - Connect to back end database from solution.
