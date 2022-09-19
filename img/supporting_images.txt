@@ -1,0 +1,1 @@
+This directory is for supporting images only. It is not necessary to include this in your project.
