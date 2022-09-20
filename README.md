@@ -9,11 +9,11 @@ This application was designed as a Windows desktop application using Visual Stud
 
 #### Target Version Information
 
-- Visual Studio Community 2022
+- Windows 10 or 11
 
-- C# .NET Framework 4.7.2
+- C# .NET Framework 4.7.2 or newer
 
-- MySQL 8.0.30
+- MySQL 8.0.30 or newer (or equivalent MariaDB)
 
 #### Server Deployment Testing Environment
 
@@ -48,6 +48,10 @@ Video presentation of early features in this build: [YouTube: NICManager - Query
 
 ### Anticipated by 10/15/2022
 - Version 1.0 - production-ready release candidate.
+
+### Future Additions
+- Explore Microsoft SQL database deployment.
+- Explore other database drivers.
 
 ## Known Issues
 As this is the first release, many issues are known and too numerous to list here. This will be refined as time goes on.
