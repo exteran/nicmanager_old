@@ -27,6 +27,7 @@ This application was designed as a Windows desktop application using Visual Stud
 
 - Create one-way digest algorithm encryption for user passwords (MD5).
 - Create authenticator class.
+  - Authenticator uses SHA256 encryption by default.
 - Design login form in Visual Studio.
 - Login and authentication system.
 
