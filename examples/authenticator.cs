@@ -5,6 +5,7 @@ using System.Security.Cryptography;
 public static class Authenticator {
     // NICManager authenticator 9/20/2022
 
+    // public getter to encrypt string / SHA256
     public static string getHash(string inputString) {
         return newHash(inputString);
     }
