@@ -47,7 +47,7 @@ Video presentation of early features in this build: [YouTube: NICManager - Query
 - Design and code queries and returns for sample data set. TODO
 
 ### Anticipated by 10/15/2022
-- Project completion.
+- Version 1.0 - production-ready release candidate.
 
 ## Known Issues
 As this is the first release, many issues are known and too numerous to list here. This will be refined as time goes on.
