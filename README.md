@@ -49,7 +49,7 @@ Video presentation of early features in this build: [YouTube: NICManager - Query
 ## To Do/In Progress
 
 - Design and code user authentication system.
--- Create password recovery/forgot password functionality.
+  - Create password recovery/forgot password functionality.
 
 ## Roadmap
 
