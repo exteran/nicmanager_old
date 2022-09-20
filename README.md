@@ -23,6 +23,13 @@ This application was designed as a Windows desktop application using Visual Stud
 
 ## Changelog
 
+### Version 0.02 - 09/20/2022
+
+- Create one-way encryption for user passwords.
+- Create authenticator class.
+- Design login form in Visual Studio.
+- Login and authentication system.
+
 ### Version 0.01 - 09/19/2022
 
 Video presentation of early features in this build: [YouTube: NICManager - Query Tool](https://youtu.be/TfylPKEYULI)
@@ -39,11 +46,16 @@ Video presentation of early features in this build: [YouTube: NICManager - Query
 - Primary form design for query tool.
 - Solution creation in Visual Studio Community 2022.
 
-## To-Do
+## To Do/In Progress
+
+- Design and code user authentication system.
+- - Create password recovery/forgot password functionality.
+
+## Roadmap
 
 ### Anticipated before 10/01/2022
 - Design and code supporting document attachment system for entries. TODO
-- Design and code user authentication system. TODO
+
 - Design and code queries and returns for sample data set. TODO
 
 ### Anticipated by 10/15/2022
