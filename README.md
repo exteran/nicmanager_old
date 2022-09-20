@@ -41,10 +41,13 @@ Video presentation of early features in this build: [YouTube: NICManager - Query
 
 ## To-Do
 
-### Version 0.02 - anticipated before 10/01/2022
+### Anticipated before 10/01/2022
 - Design and code supporting document attachment system for entries. TODO
 - Design and code user authentication system. TODO
 - Design and code queries and returns for sample data set. TODO
+
+### Anticipated by 10/15/2022
+- Project completion.
 
 ## Known Issues
 As this is the first release, many issues are known and too numerous to list here. This will be refined as time goes on.
