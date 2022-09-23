@@ -23,6 +23,10 @@ This application was designed as a Windows desktop application using Visual Stud
 
 ## Changelog
 
+### Version 0.03 - 9/23/2022 
+
+- Converting simple forms to MDI application.
+
 ### Version 0.02 - 09/20/2022
 
 - Create one-way digest algorithm encryption for user passwords (SHA256).
